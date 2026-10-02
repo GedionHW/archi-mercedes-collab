@@ -7,7 +7,6 @@
     <element xsi:type="archimate:BusinessActor" name="PC" id="id-5577e6fee5bf427c83ded7e8b4599112"/>
     <element xsi:type="archimate:BusinessActor" name="Pelanggan" id="id-814e0c1213034a05ae8d6d6b8e3389d1"/>
     <element xsi:type="archimate:BusinessActor" name="Finance" id="id-11bf5f2da5ed4934b30aa3b725fa4859"/>
-    <element xsi:type="archimate:BusinessActor" name="Test Biz Actor" id="id-add5e940736848e9881ae51467f8e8e0"/>
   </folder>
   <folder name="Application" id="id-bab9bc3c48d24c8e8ff12102e615c8f8" type="application"/>
   <folder name="Technology &amp; Physical" id="id-10d1fc2fe50c430f8bbd0787244432a9" type="technology">
@@ -181,9 +180,6 @@ Stakeholder → [associated with] → Goal</content>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-70843ae69ee64d219db64176a3228b49" targetConnections="id-54c46715e5fa4ac5b6cef931f6c2f726" archimateElement="id-3e66666a7adb46c6846f8ff3e5f23d27">
         <bounds x="888" y="208" width="157" height="26"/>
-      </child>
-      <child xsi:type="archimate:DiagramObject" id="id-d836800ac95142198423458e04fd038b" archimateElement="id-add5e940736848e9881ae51467f8e8e0">
-        <bounds x="47" y="327" width="120" height="55"/>
       </child>
     </element>
   </folder>
